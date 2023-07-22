@@ -30,6 +30,7 @@ c) Red: Identified as in incorrect position and to be moved
 d) Green: In correct position
 
 
+
 2. Three controls for visualizations:-
    
 a) Speed of visualization (5 speed levels)
@@ -39,7 +40,11 @@ b) Data size ()
 c) Generation of new data (Randomly generate new data).
 
 
+
+
 3.Time and Space complexity of algorithm being visualized.
+
+
 
 
 Look at the live version of sorting visualizer:http://127.0.0.1:5500/PROJECT%20WEB%20D/SORTING%20VISUALIZER
