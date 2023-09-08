@@ -47,4 +47,5 @@ c) Generation of new data (Randomly generate new data).
 
 
 # The Overview of The project:-
-![Screenshot (13)](https://github.com/DJ7746/SORTING-VISUALIZER/assets/128540632/fdca26d9-33c7-4a16-a806-9f7257d932c1)
+![Screenshot (13)](https://github.com/DJ7746/SORTING-VISUALIZER/assets/128540632/40012e8a-cf59-463e-a963-b5214d668cb4)
+
