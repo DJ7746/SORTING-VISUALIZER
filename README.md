@@ -46,7 +46,7 @@ c) Generation of new data (Randomly generate new data).
 
 
 
-# The Overview of The project:-
+# The Overview of the sorting visualiztion:-
 
 
 ![Screenshot (16)](https://github.com/DJ7746/SORTING-VISUALIZER/assets/128540632/8291d805-0735-40a0-87e8-97013cdf3a95)
