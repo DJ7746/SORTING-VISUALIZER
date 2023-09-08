@@ -46,5 +46,5 @@ c) Generation of new data (Randomly generate new data).
 
 
 
-
-Look at the live version of sorting visualizer:http://127.0.0.1:5500/PROJECT%20WEB%20D/SORTING%20VISUALIZER
+# The Overview of The project:-
+![Screenshot (13)](https://github.com/DJ7746/SORTING-VISUALIZER/assets/128540632/fdca26d9-33c7-4a16-a806-9f7257d932c1)
